@@ -1,6 +1,6 @@
 module.exports = {
     //siteUrl: `http://localhost:8000`, // Site domain. Do not include a trailing slash!
-    siteUrl: `https://kinggainer-tech-blog.netlify.app/`, // Site domain. Do not include a trailing slash!
+    siteUrl: `https://kinggainer-tech-blog.ghost.io`, // Site domain. Do not include a trailing slash!
     postsPerPage: 12, // Number of posts shown on paginated pages (changes this requires sometimes to delete the cache)
 
     siteTitleMeta: `Ghost Gatsby Starter`, // This allows an alternative site title for meta data for pages.
